@@ -14,7 +14,3 @@ Java backend (array-based stack, capacity 10 per stack) + Three.js 3D page.
     java -cp out Server
 Open http://localhost:8080 (keep the terminal open; Ctrl+C stops it)
 
-## Deploy free (Render)
-1. Push this folder to a GitHub repository
-2. render.com: New > Web Service > pick the repo > Language: Docker > Instance type: Free
-3. Create Web Service, wait for the build, open the .onrender.com link
